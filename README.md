@@ -1,4 +1,4 @@
-# ARKAINBRAIN v5.0 — AI-Powered Slot Game Intelligence
+# ARKAINBRAIN v6.1 — AI-Powered Slot Game Intelligence
 
 Built by [ArkainGames.com](https://arkaingames.com)
 
